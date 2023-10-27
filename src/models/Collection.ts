@@ -1,0 +1,1 @@
+export default class Collection<K, V> extends Map {};
